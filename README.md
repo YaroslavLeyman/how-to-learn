@@ -13,7 +13,3 @@
 * HTML
 * CSS
 * БЭМ
-
-**GitHub Pages**
-
-* [Ссылка на проект](https://yaroslavleyman.github.io/how-to-learn-bootcamp/)
