@@ -1,6 +1,5 @@
 # Проект: Научиться учиться
-Alt-H1
-------
+
 ### Обзор
 * Интро
 * Используемые технологии
@@ -17,4 +16,4 @@ Alt-H1
 
 **GitHub Pages**
 
-* [Ссылка на проект](https://YaroslavLeyman.github.io/how-to-learn-bootcamp/index.html)
+* [Ссылка на проект](https://YaroslavLeyman.github.io/how-to-learn-bootcamp)
