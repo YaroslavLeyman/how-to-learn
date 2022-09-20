@@ -16,4 +16,4 @@
 
 **GitHub Pages**
 
-* [Ссылка на проект](https://github.com/YaroslavLeyman/how-to-learn-bootcamp.git)
+* [Ссылка на проект](https://yaroslavleyman.github.io/how-to-learn-bootcamp/)
